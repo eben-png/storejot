@@ -1,1 +1,17 @@
 @import "tailwindcss";
+
+body {
+    background-color: #1E1E1E;
+    color: #FFF;
+}
+
+.styled-input {
+    border: 4px dashed #ffffff50;
+    padding: 10px 15px;
+    outline: none;
+}
+
+.input-lg {
+    font-size: 28px;
+    width: 75%
+}
